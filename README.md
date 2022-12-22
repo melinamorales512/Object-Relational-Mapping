@@ -13,6 +13,9 @@
 ## Description
 This application is to learn about backend, using e-commerce site. 
 
+![image](https://user-images.githubusercontent.com/111590453/209065741-acac2480-8274-4642-b823-cc61d1c2f060.png)
+
+
 ## Installation
 npm init, npm install mysql2, npm install sequelize, npm install dotenv.
 
@@ -32,5 +35,6 @@ no test
 Have questions about this project?  
 GitHub: https://github.com/melinamorales512  
 Email: melinamorales956@gmail.com
+
 ## Credits
 Melina Morales
